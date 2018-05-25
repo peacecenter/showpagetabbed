@@ -633,7 +633,7 @@ div#myList {
 	}
 
 	.right {
-		width: 60%;
+		width: calc(70% - 60px);
 	}
 	
 }
